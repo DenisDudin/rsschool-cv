@@ -16,7 +16,13 @@ In my free time I like to play sports, read or watch interesting movies and take
 
 ## Education
 * Bauman Moscow State Technical University _2019 - 2021_
+Master's Degree.
+Faculty of Computer Science and Management Systems.
+Information security.===
 * BSTU named after Shukhov _2015 - 2019_
+Bachelor's degree.
+Faculty of Computer Software and Automated Systems.
+Informatics and Computer Science.===
 
 ## Skills
 * HTML5 / CSS3
