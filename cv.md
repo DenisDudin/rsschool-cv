@@ -7,22 +7,24 @@
 * Telegram: @Denis
 
 ## About Me
-===I practice writing websites using React, making my code more accessible and understandable, studying third-party libraries for more functionality and animation of elements on the page. I get involved in work that gives me a lot of pleasure. I am able and willing to work on results.
-In my free time I like to play sports, read or watch interesting movies and take interest in economics.===
+I practice writing websites using React, making my code more accessible and understandable, studying third-party libraries for more functionality and animation of elements on the page. I get involved in work that gives me a lot of pleasure. I am able and willing to work on results.
+In my free time I like to play sports, read or watch interesting movies and take interest in economics.
 
 ## Experience
-* Individual entrepreneur _may 2020 - march 2022_
-* IT-auditor _january 2020 - may 2020_
+* Individual entrepreneur |_may 2020 - march 2022_|
+* IT-auditor "_january 2020 - may 2020_|
 
 ## Education
-* Bauman Moscow State Technical University _2019 - 2021_
+* Bauman Moscow State Technical University |_2019 - 2021_|
+
 Master's Degree.
 Faculty of Computer Science and Management Systems.
-Information security.===
-* BSTU named after Shukhov _2015 - 2019_
+Information security.
+* BSTU named after Shukhov |_2015 - 2019_|  
+
 Bachelor's degree.
 Faculty of Computer Software and Automated Systems.
-Informatics and Computer Science.===
+Informatics and Computer Science.
 
 ## Skills
 * HTML5 / CSS3
